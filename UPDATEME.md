@@ -19,8 +19,8 @@ You can open the `index.html` file directly in your browser to see the web page 
 
 ##  Project Structure
 
-ndex.html # Main web page file
-README.md # Project descriptio
+index.html # Main web page file
+UPDATEME.md # Project descriptio
 
 ## ✍️ Author
 
